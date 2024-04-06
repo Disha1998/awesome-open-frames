@@ -20,6 +20,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Zora Magic Machine Frame](https://paragraph.xyz/@zora/zora-magic-machine/) - Zora newsletter
 - [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 - [SlideFrame](https://slideframe.replit.app/) - Easily share presentation slides in a frame.
+- [CoinTopper](https://cointopper-farcaster.vercel.app/) - A SocialFi hub for crypto Q&A, trend betting, and connections.
 
 **open-source**
 
